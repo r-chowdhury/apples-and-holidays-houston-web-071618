@@ -95,6 +95,7 @@ def all_holidays_with_bbq(holiday_hash)
   end
   return holidays_with_bbq
 end
+<<<<<<< HEAD
 
 holiday_hash = {
       :winter => {
@@ -112,3 +113,5 @@ holiday_hash = {
       }
     }
   
+=======
+>>>>>>> 213b7c7661bfc4247f57ad3962594c73d182493f
